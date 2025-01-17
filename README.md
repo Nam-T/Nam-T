@@ -25,6 +25,14 @@
 
 ---
 
+## 🎓 Certifications
+
+- 📜 **Ruby Association Certified Ruby Programmer Silver** (2025): [Certificate]()
+- 📜 **Ruby Association Certified Ruby Programmer Gold** [Coming soon!]
+- 📜 **AWS Certified Solutions Architect - Associate** [Coming soon!]
+
+---
+
 ## 💬 Ask Me About  
 - How to optimize your **Ruby on Rails** application.  
 - The best practices in **ReactJS/NextJS** development.  
