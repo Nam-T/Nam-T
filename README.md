@@ -27,7 +27,7 @@
 
 ## 🎓 Certifications
 
-- 📜 **Ruby Association Certified Ruby Programmer Silver** (2025): [Certificate]()
+- 📜 **Ruby Association Certified Ruby Programmer Silver** (2025): [Certificate](./certificates/ruby_association_certified_ruby_programmer_silver.pdf)
 - 📜 **Ruby Association Certified Ruby Programmer Gold** [Coming soon!]
 - 📜 **AWS Certified Solutions Architect - Associate** [Coming soon!]
 
