@@ -46,7 +46,8 @@
 
 ## 📬 Let's Connect  
 
-🌐 **Portfolio:** [Coming soon!]  
+🌐 **Portfolio:** https://portfolio.namt.top 
+
 📧 **Email:** namthp99@gmail.com  
 
 ---
