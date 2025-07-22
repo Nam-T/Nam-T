@@ -29,9 +29,10 @@
 
 <div style="display: flex; align-items: end;"><img src="./logos/logo_silver_v3.svg" alt="Alt Text" width="20" height="20"> <span><span style="margin-left: 5px; font-weight: bold;">Ruby Association Certified Ruby Programmer Silver</span> (2025): <a href="./certificates/ruby_association_certified_ruby_programmer_silver.pdf">Certificate</a></span></div>
 
+<div style="display: flex; align-items: end;"><img src="./logos/logo_gold_v3.svg" alt="Alt Text" width="20" height="20"> <span><span style="margin-left: 5px; font-weight: bold;">Ruby Association Certified Ruby Programmer Gold</span> (2025): <a href="./certificates/ruby_association_certified_ruby_programmer_gold.pdf">Certificate</a></span></div>
+
 ####
 **Coming soon**: 
-- 📜 **Ruby Association Certified Ruby Programmer Gold** [Coming soon!]
 - 📜 **AWS Certified Solutions Architect - Associate** [Coming soon!]
 
 ---
